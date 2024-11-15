@@ -5,9 +5,11 @@
 #include <unistd.h>
 #include <mqueue.h>
 #include "messages.h"
-//chmod +x ./filename.c
+
+//chmod +x ./filename.c --> add permission to run in terminal linux
 
 // instruction 2 on the 15.11.2024
+// creating processes, adding header files, creating channel and communicating file to file, error analysis
 int main(int argc, char * argv[]){
 
     struct mq_attr attr;
