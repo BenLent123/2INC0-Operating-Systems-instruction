@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
-
+//instruction on the 13.11.2024;
+// basics of C (int, char, ptr, malloc, arrays)
 int main(int argc, char * argv[])
 {
 printf("Hello world\n");
